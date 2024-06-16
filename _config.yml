@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/xiaotojohn/ml_project
+        link: github.com/xiaotojohn/ml_proj
         # link_text: Project Website
         quote: >
           A project. It's super awesome. You should check it out.
