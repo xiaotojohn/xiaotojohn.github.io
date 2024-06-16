@@ -32,7 +32,7 @@ linkedin_username: zhanmingxiao
 # Additional icon links
 additional_links:
 - title: unsplash
-  icon: fab fa-unsplash
+  icon: fa-brands fa-unsplash
   url: https://unsplash.com/@xiaotojohn
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
