@@ -60,13 +60,14 @@ content:
         title: Super awesome project
         link: github.com/xiaotojohn/ml_proj
         # link_text: Project Website
-        link: https://public.tableau.com/app/profile/zhanming.xiao/vizzes
-        # link_text: Tableau Public Profile
         quote: >
           A project. It's super awesome. You should check it out.
         description: | # this will include new lines to allow paragraphs
           This project was super awesome. I did some stuff and it was great. You should check it out. It's on my GitHub.
-  
+      - layout: top-middle
+        title: Tableau Data Visualization Projects
+        link: https://public.tableau.com/app/profile/zhanming.xiao/vizzes
+        # link_text: Tableau Public Profile
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
