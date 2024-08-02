@@ -64,8 +64,8 @@ content:
           A project. It's super awesome. You should check it out.
         description: | # this will include new lines to allow paragraphs
           This project was super awesome. I did some stuff and it was great. You should check it out. It's on my GitHub.
-    content:
-        layout: top-middle
+    # content:
+      - layout: top-middle
         title: Tableau Data Visualization Projects
         link: https://public.tableau.com/app/profile/zhanming.xiao/vizzes
         # link_text: Tableau Public Profile
