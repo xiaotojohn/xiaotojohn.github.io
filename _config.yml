@@ -94,6 +94,14 @@ content:
           I learnt some stuff
         description: | # this will include new lines to allow paragraphs
           I learnt some stuff and it was great. You should check it out. C'thulhu fhtagn.
+      - layout: left
+        title: University of Victoria
+        caption: 2019-2022
+        sub_title: Bachelor of Commerce
+        quote: >
+          I learnt some stuff
+        description: | # this will include new lines to allow paragraphs
+          I learnt some stuff and it was great.
 
   - title: A Little More About Me
     layout: text
