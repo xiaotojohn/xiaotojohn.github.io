@@ -87,9 +87,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Miskatonic University
-        caption: 2020 - 2028
-        sub_title: BSc Malicious Mathematics
+        title: University of British Columbia
+        caption: 2023-2024
+        sub_title: Master of Business Analytics
         quote: >
           I learnt some stuff
         description: | # this will include new lines to allow paragraphs
