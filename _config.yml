@@ -91,17 +91,38 @@ content:
         caption: 2023-2024
         sub_title: Master of Business Analytics
         quote: >
-          I learnt some stuff
+          Gained proficiency in data-driven decision making
         description: | # this will include new lines to allow paragraphs
-          I learnt some stuff and it was great. You should check it out. C'thulhu fhtagn.
+          Developed advanced skills in data analysis, statistical modeling, and machine learning applications for business solutions. 
+          Gained hands-on experience in using tools such as Python, R, and SQL for data manipulation, predictive analytics, and business intelligence reporting. 
+          Courses included data visualization, econometrics, and data-driven decision making in areas like marketing and finance. 
+          Worked on projects involving real-world datasets to optimize business processes and create actionable insights for complex business problems.
       - layout: left
         title: University of Victoria
         caption: 2019-2022
         sub_title: Bachelor of Commerce
         quote: >
-          I learnt some stuff
+           Acquired a comprehensive foundation in business and management
         description: | # this will include new lines to allow paragraphs
-          I learnt some stuff and it was great.
+          Studied key aspects of business management including finance, marketing, operations, and organizational behavior. 
+          Developed skills in strategic thinking, business planning, and market analysis. 
+          Gained exposure to accounting principles, financial reporting, and risk management. 
+          Participated in group projects simulating real-world business challenges, focusing on leadership, teamwork, and problem-solving. 
+          Completed internships that provided practical experience in business operations and strategy development.
+
+      - layout: left
+        title: Shanghaitech University
+        caption: 2015-2018
+        sub_title: Computer Science
+        quote: >
+          Acquired a solid foundation in computer science and programming.
+        description: | # this will include new lines to allow paragraphs
+          Developed strong skills in algorithms, data structures, and software engineering principles. 
+          Gained proficiency in multiple programming languages, including Python, Java, and C++. 
+          Engaged in courses covering computer architecture, operating systems, and database management. 
+          Worked on capstone projects involving software development, data analysis, and system optimization. 
+          Participated in coding competitions and collaborated on open-source projects, gaining practical exposure to collaborative software development.
+
 
   - title: A Little More About Me
     layout: text
