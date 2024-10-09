@@ -59,31 +59,80 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Machine Learning Projects
         link: github.com/xiaotojohn/ml_proj
-        # link_text: Project Website
-        quote: >
-          A project. It's super awesome. You should check it out.
-        description: | # this will include new lines to allow paragraphs
-          This project was super awesome. I did some stuff and it was great. You should check it out. It's on my GitHub.
     # content:
       - layout: top-middle
         title: Tableau Data Visualization Projects
         link: https://public.tableau.com/app/profile/zhanming.xiao/vizzes
         # link_text: Tableau Public Profile
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Some Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Business Analyst
-        caption: November 2017 - Present
-        quote: >
-          making sure the whole company stays connected
-        description: | # this will include new lines to allow paragraphs
-            during my time at Some Company I did some stuff and it was great. You should check it out. It's on my GitHub.
+- title: Experience # Title for the section
+  layout: list # Type of content section (list/text)
+  content:
+    - layout: left
+      title: Global Nexus Education Inc.
+      link: https://globalnexusgroup.com/
+      sub_title: Business Development Officer
+      caption: October 2022 – December 2023
+      quote: >
+        Driving business growth through strategic process improvement
+      description: |
+        Collaborated with key stakeholders in a dynamic start-up environment to identify and secure business expansion opportunities. 
+        Spearheaded the development and execution of project initiatives, including the creation of an innovative summer camp program for high school students abroad. 
+        My role spanned across marketing, product design, budget planning, and operational procedures, resulting in a 20% increase in organizational efficiency.
+
+    - layout: left
+      title: University of Victoria
+      sub_title: Research Assistant for Inclusive Community of Older Immigrants
+      caption: July 2022 – August 2023
+      quote: >
+        Researching social isolation and community integration
+      description: |
+        Provided strategic support in a multi-year research project aimed at reducing social isolation among senior immigrants. 
+        Designed and implemented data collection methodologies, and conducted in-depth analysis to identify key demographic patterns. 
+        This work significantly enhanced the project's ability to design effective interventions for improving community engagement and well-being.
+
+    - layout: left
+      title: Dajia Insurance Group Co. Ltd
+      sub_title: Internship
+      caption: September 2021 – December 2021
+      quote: >
+        Supporting financial data analysis and reporting
+      description: |
+        Consolidated financial data and generated key financial reports for asset management and client portfolios. 
+        Assisted in virtual business meetings, translation, and administrative functions that supported the finance department's overall operations.
+
+    - layout: left
+      title: Tangram Culture Academy
+      sub_title: Instructor
+      caption: January 2021 – Present
+      quote: >
+        Empowering students in AP and post-secondary level courses
+      description: |
+        Instructed K-12 students in advanced placement courses such as AP Calculus, AP Statistics, and AP Physics. 
+        Utilized adaptive teaching methods to maximize academic performance and ensure student success in rigorous subjects.
+
+    - layout: left
+      title: Vancouver Public Education Alliance
+      sub_title: Higher Education Consultant
+      caption: January 2021 – September 2021
+      quote: >
+        Guiding students towards their academic aspirations
+      description: |
+        Delivered expert consulting services, offering comprehensive career planning and educational guidance tailored to students' goals. 
+        Provided support to international students, assisting them with academic assignments, daily life challenges, and mental health resources.
+
+    - layout: left
+      title: Toastmasters International
+      sub_title: Area Director
+      caption: July 2023 – Present
+      quote: >
+        Leading communication excellence
+      description: |
+        Steered the strategic growth and operational success of multiple Toastmasters clubs. 
+        Fostered a culture of effective communication and leadership while ensuring high membership engagement and educational outcomes.
+
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
