@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Shawn Xiao
-title: Data Scientist
+title: Data Analyst/Full Stack Developer/Tutor/Business Advisor/Photographer
 email: zhmxiao@student.ubc.ca
 website: https://xiaotojohn.github.io/
 
@@ -48,10 +48,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Shawn and I'm a data scientist. I'm currently studying at the University of British Columbia and am looking for a job in the data science field. I have a passion for data analytics and photography and am always looking for new projects to work on.
-
-  I am most skilled in: <mark>data analytics</mark> and <mark>photography</mark>
-
+  Hey there, glad you stopped by! I'm Shawn, someone with an insatiable curiosity about nearly everything in the universe.
+  - I've lived in two countries, five cities, and have explored diverse fields like computer science and commerce along the way.
+  - I've been active in Toastmasters, taking on leadership roles like area director and club president. I've also dabbled in several professional roles, including educational consultant, developer, business development officer, due diligence advisor, and research assistant. And yes, I tutor physics and math too!
+  - I love working with both people and machines, finding that balance between the two. I'm also a big fan of reading history and imagining how humanity might evolve to shape the universe (which is why I like Foucault and Asimov).
+  But if you're wondering what I excel at most, here it is:
+  <mark>Data Analytics, Business Consulting, and Education.</mark>
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
